@@ -1,14 +1,8 @@
 /conf.old
 /oldprinter
-/printer-20211121_145854.cfg
-/printer-20211209_183114.cfg
-/printer-20211210_222354.cfg
-/printer-20211210_224011.cfg
-/printer-20211227_164908.cfg
-/printer-20211227_171544.cfg
-/printer-20220101_161335.cfg
-/printer-20220102_190958.cfg
+/printer-202*.cfg
 /telegram.conf
 /test.cfg
 /imgs
 *.zip
+*.conf.bkp
