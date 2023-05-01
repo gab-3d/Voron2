@@ -6,3 +6,6 @@
 /imgs
 *.zip
 *.bkp
+/backup/*.*
+/shaper/*.*
+
